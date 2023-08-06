@@ -54,7 +54,7 @@ article {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    width: 5000px;
+    width: 4000px;
     margin: 0 30px;
     background-color: lightblue;
 }
@@ -113,7 +113,7 @@ article {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    width: 5000px;
+    width: 4000px;
     margin: 0 30px;
     background-color: lightblue;
 }
