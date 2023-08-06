@@ -1,0 +1,189 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0ebeb;
+}
+
+header{
+    background-color: #077940;
+    padding: 10px;
+}
+
+header img{
+    width: 159px;
+    height: 50px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 14px;
+    margin-top: 10;
+}
+
+.logo{
+    width: 209px;
+    height: 167px;
+}
+
+nav a {
+    font-family: poppins;
+    text-decoration: none;
+    color: royalblue;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: white
+    
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding: 5;
+    width: 200px;
+    margin: 0px;
+}
+
+.catalog {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 700px;
+    margin: 0 30px;
+    background-color: lightblue;
+}
+
+.product {
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border: 5px double orange;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: bisque;
+}
+
+h2 {
+    color: green;
+    margin-left: 100px;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.catalog a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px dotted black;
+    font-size: 14px;
+}
+
+.product {
+    width: 150px;
+    text-align: center;
+    padding: 5px;
+    border: 5px double orange;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: bisque;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 200px;
+    margin: 0px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: rgb(7, 80, 25);
+    color: black;
+    font-size: 19px;
+    text-align: center;
+    padding: 10px 55px 10px 40px;
+}
+
+.catalog {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 700px;
+    margin: 0 30px;
+    background-color: lightblue;
+}
+
+.product {
+    width: 150px;
+    text-align: center;
+    padding: 5px;
+    border: 5px double orange;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: bisque;
+}
+
+.gallery {
+    background-color: lightgray;
+    padding: 15px;
+}
+
+
+ol {
+    font-size: 15px;
+    font-family: sans-serif;;
+}
+
+ul {
+    font-size: 14px;
+    font-family: sans-serif;;
+}
+
+a {
+    font-size: 15px;
+    margin: 20px;
+    color: royalblue;
+}
+
+a:hover {
+    color: rgb(143, 95, 36);
+    background-color: lightblue;
+}
+
+.principles {
+    display: flex;
+    border-top: 5px solid navy;
+    border-bottom: 5px solid navy;
+    justify-content: space-between; 
+    width: 700px;
+    margin: 0 30px;
+    padding: 30px;
+    text-align: center;
+}
+
+.principle {
+    width: 220px;
+}
+
+.slogan {
+    display: flex;
+    padding: 30px;
+    color: mediumblue;
+    margin-left: 150px;
+}
+
+footer {
+    background-color: rgb(192, 181, 181);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+ }
